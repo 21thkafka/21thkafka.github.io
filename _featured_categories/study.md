@@ -4,7 +4,7 @@ title: Study
 slug: study
 menu: true
 submenu: true
-order: 5
+order: 4
 description: >
-  기타 공부
+  자바, 네트워크 공부
 ---

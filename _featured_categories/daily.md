@@ -4,7 +4,7 @@ title: Daily
 slug: Daily
 menu: true
 submenu: false
-order: 6
+order: 5
 description: >
  오류나는 일상  
 ---
